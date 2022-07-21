@@ -1,2 +1,2 @@
-# dio-desafio-git-github
-Repositório para o Desafio Git/GitHub Dio
+# Desafio Git/GitHub Dio :computer:
+## Repositório para o desafio
